@@ -1,3 +1,4 @@
+# Btc Ticker
 This project will define  the real time data for btc value from bitbns api using websocket it will show the bid peice for btc,
 volume of btc,last price of btc,high and low price of btc also it will show the price change w
 
